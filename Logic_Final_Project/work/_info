@@ -1,0 +1,164 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/logic_taslim/logic_taslim
+vadd_sub
+Z1 !s110 1715462368
+!i10b 1
+!s100 M5;<BZiV_Jlhn7DlL3aP_0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I7]amSU_Y[QmFOToRPjUK<2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1715461411
+Z5 8add_sub.v
+Z6 Fadd_sub.v
+!i122 0
+L0 12 57
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1715462366.000000
+!s107 rem_tb.v|rem.v|mul_tb.v|mul.v|alu.v|add_sub_tb.v|add_sub.v|
+Z9 !s90 add_sub.v|add_sub_tb.v|alu.v|mul.v|mul_tb.v|rem.v|rem_tb.v|
+!i113 1
+Z10 tCvgOpt 0
+vadd_sub_tb
+R1
+!i10b 1
+!s100 kKOAJC6QmXn=lgNzFIITN0
+R2
+I[P0=9mQ]L:@fzQZn3@zR11
+R3
+R0
+R4
+8add_sub_tb.v
+Fadd_sub_tb.v
+!i122 0
+L0 1 102
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 rem_tb.v|rem.v|mul_tb.v|mul.v|alu.v|add_sub_tb.v|add_sub.v|
+R9
+!i113 1
+R10
+vfull_adder
+R1
+!i10b 1
+!s100 dGgn7z_DJo?CCU_WI^FmR0
+R2
+IPWn:R<H2h5;AbSfBmhmKT2
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 1 10
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vmul
+R1
+!i10b 1
+!s100 cPk:8B;zLijQhIJNjOibF2
+R2
+IDYRAWP5hNVg[eln01Kzb<1
+R3
+R0
+R4
+8mul.v
+Fmul.v
+!i122 0
+L0 1 22
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vmul_tb
+R1
+!i10b 1
+!s100 hhGlhb[o_;e:`nT@?nLZ_3
+R2
+I4k@:>2UeeXlL?4XZ7QEiG0
+R3
+R0
+R4
+8mul_tb.v
+Fmul_tb.v
+!i122 0
+L0 1 37
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vrem
+R1
+!i10b 1
+!s100 2>eeWDBC3Qdb?NmLnaH7G1
+R2
+IKG0Q=lWMUV:4gZ6d2l;hl1
+R3
+R0
+R4
+8rem.v
+Frem.v
+!i122 0
+L0 1 32
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vrem_tb
+R1
+!i10b 1
+!s100 D@C<i:LgSVhTAbA8bQ@>>3
+R2
+Id0kO0G5XT97S59keZ[_jU0
+R3
+R0
+R4
+8rem_tb.v
+Frem_tb.v
+!i122 0
+L0 1 50
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
